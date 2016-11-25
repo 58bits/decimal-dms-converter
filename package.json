@@ -2,7 +2,7 @@
   "name": "decimal-dms-converter",
   "version": "1.0.0",
   "description": "Decimal to and from degrees, minutes, seconds converter.",
-  "main": "geoconvert.js",
+  "main": "converter.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/58bits/decimal-dms-converter"
