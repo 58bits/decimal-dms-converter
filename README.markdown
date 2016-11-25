@@ -52,4 +52,4 @@ Original Authors
 
 License
 -------
-Copyright Infonomic. Co., Ltd. Portions Copyright 2011 by PerfectLine LLC (<http://www.perfectline.ee>). Released under the MIT license.
+Copyright Infonomic Co., Ltd. (<https://infonomic.io>) Portions Copyright 2011 by PerfectLine LLC (<http://www.perfectline.ee>). Released under the MIT license.
