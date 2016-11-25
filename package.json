@@ -1,0 +1,27 @@
+{
+  "name": "decimal-dms-converter",
+  "version": "1.0.0",
+  "description": "Decimal to and from degrees, minutes, seconds converter.",
+  "main": "geoconvert.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/58bits/decimal-dms-converter"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "decimal",
+    "degrees",
+    "converter"
+  ],
+  "author": "Anthony Bouch",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
